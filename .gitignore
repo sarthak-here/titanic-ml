@@ -1,0 +1,18 @@
+# competition data (download via kaggle CLI)
+train.csv
+test.csv
+titanic.zip
+gender_submission.csv
+
+# submission files
+submission*.csv
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
