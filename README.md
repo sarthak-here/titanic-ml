@@ -1,5 +1,10 @@
 # Titanic - Machine Learning from Disaster
 
+> **[System Design](./systemdesign.md)** - Architecture, data flow, and how it works end-to-end
+
+---
+
+
 Kaggle competition: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
 **Best leaderboard score: 0.78229**
